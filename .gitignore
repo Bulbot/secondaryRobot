@@ -41,3 +41,16 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.o
+LogicMainRobot.X/build/default/debug/basicActions.o.d
+*.d
+*.map
+LogicMainRobot.X/dist/default/debug/LogicMainRobot.X.debug.elf
+*.hex
+*.elf
+LogicMainRobot.X/Doxyfile
+*.i
+PropBLDC.X/build/default/production/BLDC.s
+*.s
+*.disasm
+*.zargo
